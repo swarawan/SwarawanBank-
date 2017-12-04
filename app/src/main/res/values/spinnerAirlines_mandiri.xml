@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="prompt_airlines_mandiri">Pilih Maskapai</string>
+
+    <string-array name="array_airlines_mandiri">
+        <item>Garuda</item>
+        <item>Riau Air</item>
+        <item>Air Asia</item>
+        <item>Lion Air</item>
+        <item>Mandala</item>
+    </string-array>
+    <string-array name="array_airlines_bni">
+        <item>Mandala</item>
+        <item>Garuda</item>
+        <item>Lion Air</item>
+        <item>Air Asia</item>
+    </string-array>
+
+</resources>

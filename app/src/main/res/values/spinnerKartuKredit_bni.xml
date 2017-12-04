@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="prompt_kartukredit_bni">Pilih Kreditor</string>
+
+    <string-array name="array_kartukredit_bni">
+        <item>BNI</item>
+        <item>Standart Chartered Bank</item>
+        <item>HSBC</item>
+        <item>Niaga</item>
+        <item>ABN AMRO</item>
+        <item>ANZ</item>
+        <item>GE</item>
+        <item>MEGA</item>
+        <item>CITIBANK dan Ready Cash</item>
+        <item>Danamon</item>
+        <item>Permata</item>
+        <item>Bukopin</item>
+        <item>American Express</item>
+    </string-array>
+    <string-array name="array_kartukredit_mandiri">
+        <item>Mandiri</item>
+        <item>CITIBANK</item>
+        <item>RBS</item>
+        <item>Standart Chartered Bank</item>
+        <item>HSBC</item>
+        <item>BNI</item>
+        <item>Permata</item>
+        <item>Niaga</item>
+        <item>Danamon</item>
+        <item>MEGA</item>
+        <item>UOB</item>
+    </string-array>
+
+</resources>

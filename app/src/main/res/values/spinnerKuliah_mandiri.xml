@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="prompt_kuliah_mandiri">Pilih Universitas</string>
+
+    <string-array name="array_kuliah_mandiri">
+        <item>Bina Sarana Informatika</item>
+        <item>STIE Trisakti</item>
+        <item>Universitas Udayana</item>
+        <item>Universitas Brawijaya</item>
+        <item>Universitas Airlangga</item>
+        <item>Universitas Surabaya</item>
+        <item>Universitas Gajah Mada</item>
+        <item>Universitas Indonesia</item>
+    </string-array>
+
+</resources>

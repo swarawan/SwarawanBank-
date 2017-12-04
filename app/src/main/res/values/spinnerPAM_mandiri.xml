@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="prompt_pam_mandiri">Piliha PAM</string>
+
+    <string-array name="array_pam_mandiri">
+        <item>Palyja</item>
+        <item>Aetra</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="prompt_pdam_mandiri">Pilih PDAM</string>
+
+    <string-array name="array_pdam_mandiri">
+        <item>PDAM Bandung</item>
+        <item>PDAM Kota Malang</item>
+        <item>PDAM Kota Batu</item>
+        <item>PDAM Kota Cirebon</item>
+        <item>PDAM Kabupaten Tangerang</item>
+        <item>PDAM Kota Bogor</item>
+        <item>PDAM Kabupaten Bogor</item>
+        <item>PDAM Kota Bekasi</item>
+        <item>PDAM Kota Palembang</item>
+        <item>PDAM Jambi</item>
+        <item>PDAM Lampung</item>
+    </string-array>
+
+</resources>

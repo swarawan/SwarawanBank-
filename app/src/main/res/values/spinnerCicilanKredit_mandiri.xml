@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="prompt_cicilankredit_mandiri">Pilih Kreditor</string>
+
+    <string-array name="array_cicilankredit_mandiri">
+        <item>Citibank Personal Loan</item>
+        <item>Citi Financial</item>
+        <item>ABNAMRO Personal Loan</item>
+        <item>Adira Finance</item>
+        <item>OTO Multiartha</item>
+        <item>Sun Prima</item>
+        <item>OTO Kredit Motor</item>
+        <item>Columbia</item>
+        <item>ACC</item>
+        <item>Tunas Fiancindo Sarana</item>
+    </string-array>
+
+</resources>

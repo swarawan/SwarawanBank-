@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="prompt_internet_mandiri">Pilih Provider</string>
+
+    <string-array name="array_internet_mandiri">
+        <item>Indosatnet</item>
+        <item>CBN</item>
+    </string-array>
+
+</resources>

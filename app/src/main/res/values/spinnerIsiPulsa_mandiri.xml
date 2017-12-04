@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="prompt_isipulsa_mandiri">Pilih Provider</string>
+    <string name="prompt_nilaivocer_mandiri">Nilai Vocer</string>
+
+    <string-array name="array_isipulsa_mandiri">
+        <item>Simpati</item>
+        <item>Mentari</item>
+        <item>IM3</item>
+        <item>XL</item>
+        <item>Fren</item>
+        <item>Flexi</item>
+        <item>3 Prabayar</item>
+        <item>Smart Telecom</item>
+        <item>Esia</item>
+        <item>StarOne</item>
+    </string-array>
+    
+    <string-array name="array_isipulsa_bni">
+        <item>Simpati</item>
+        <item>As</item>
+        <item>Mentari</item>
+        <item>IM3</item>
+        <item>StarOne</item>
+        <item>XL Voucher</item>
+        <item>XL Bebas Xtra</item>
+        <item>Flexi</item>
+        <item>Esia</item>
+        <item>Fren</item>
+        <item>3 (Three)</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.swarawan.smsbanking">
+
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".mandiri.menuitem.AirlinesActivity" />
+        <activity android:name=".mandiri.menuitem.AsuransiActivity" />
+        <activity android:name=".mandiri.menuitem.CicilanKreditActivity" />
+        <activity android:name=".mandiri.menuitem.IklanActivity" />
+        <activity android:name=".mandiri.menuitem.InternetActivity" />
+        <activity android:name=".mandiri.menuitem.KartuKreditActivity" />
+        <activity android:name=".mandiri.menuitem.KeretaApiActivity" />
+        <activity android:name=".mandiri.menuitem.KuliahActivity" />
+        <activity android:name=".mandiri.menuitem.PAMActivity" />
+        <activity android:name=".mandiri.menuitem.PascaBayarActivity" />
+        <activity android:name=".mandiri.menuitem.PBBActivity" />
+        <activity android:name=".mandiri.menuitem.PDAMActivity" />
+        <activity android:name=".mandiri.menuitem.SCTVActivity" />
+        <activity android:name=".mandiri.menuitem.TransferBedaBankActivity" />
+        <activity android:name=".mandiri.menuitem.TransferMandiriActivity" />
+        <activity android:name=".mandiri.menuitem.TVKabelActivity" />
+        <activity android:name=".mandiri.menuitem.TravelAgentActivity" />
+        <activity android:name=".mandiri.MenuInformasi" />
+        <activity android:name=".mandiri.MenuIsiUlang" />
+        <activity android:name=".mandiri.MenuMandiri" />
+        <activity android:name=".mandiri.MenuPembayaran" />
+        <activity android:name=".mandiri.MenuPembelian" />
+        <activity android:name=".mandiri.MenuTransaksi" />
+        <activity android:name=".mandiri.menuitem.MandiriSMSActivity" />
+        <activity android:name=".mandiri.menuitem.TagihanKKActivity" />
+        <activity android:name=".mandiri.menuitem.InfoValasActivity" />
+        <activity android:name=".mandiri.menuitem.GantiPinActivity" />
+        <activity android:name=".mandiri.menuitem.IsiUlangPulsaActivity" />
+        <activity android:name=".mandiri.menuitem.PLNActivity" />
+        <activity android:name=".bni.MenuBNI" />
+        <activity android:name=".bni.MenuBantuanBNI" />
+        <activity android:name=".bni.MenuInformasiBNI" />
+        <activity android:name=".bni.MenuIsiUlangBNI" />
+        <activity android:name=".bni.MenuPembayaranBNI"/>
+        <activity android:name=".bni.MenuTransferBNI" />
+        <activity android:name=".bni.menuitem.InfoTagihanBNIActivity" />
+        <activity android:name=".bni.menuitem.TransferAntarBNIActivity" />
+        <activity android:name=".bni.menuitem.TransferDenganBeritaActivity" />
+        <activity android:name=".bni.menuitem.TransferDenganBeritaNotifActivity" />
+        <activity android:name=".bni.menuitem.TransferDenganKonfirmasiActivity" />
+        <activity android:name=".bni.menuitem.TransferDenganNotifActivity" />
+        <activity android:name=".bni.menuitem.IsiUlangPulsaBNIActivity" />
+        <activity android:name=".bni.menuitem.PembayaranKartuKreditBNIActivity" />
+        <activity android:name=".bni.menuitem.PembayaranTagihanBNI" />
+        <activity android:name=".bni.menuitem.PembayaranTiketPesawatBNIActivity" />
+        <activity android:name=".bni.menuitem.SMSBNIActivity" />
+        <activity android:name=".mandiri.menuitem.Help_Pulsa" />
+
+        <receiver android:name=".widget.MySMSReceiver" >
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name=".widget.MyBackgroundService" />
+    </application>
+
+</manifest>

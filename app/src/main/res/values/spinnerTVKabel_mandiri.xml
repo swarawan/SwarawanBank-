@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="prompt_tvkabel_mandiri">Pilih TV Kabel</string>
+
+    <string-array name="array_tvkabel_mandiri">
+        <item>Indovision</item>
+        <item>First Media</item>
+        <item>Astro</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="prompt_pascabayar_mandiri">Piliha Provider</string>
+
+    <string-array name="array_pascabayar_mandiri">
+        <item>Telkom</item>
+        <item>XPlor</item>
+        <item>Kartu Halo</item>
+        <item>Matrix</item>
+        <item>Telkom Flexi</item>
+        <item>Fren</item>
+        <item>3Pascabayar</item>
+        <item>SmartTelecom</item>
+        <item>Esia</item>
+        <item>StarOne</item>
+    </string-array>
+
+</resources>

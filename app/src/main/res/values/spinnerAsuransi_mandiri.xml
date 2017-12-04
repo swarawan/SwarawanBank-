@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="prompt_asuransi_mandiri">Pilih Asuransi</string>
+
+    <string-array name="array_asuransi_mandiri">
+        <item>AXA</item>
+        <item>Sinar Mas</item>
+        <item>Sinar Mas Life</item>
+        <item>Commonwealth Life</item>
+        <item>Bumi Asih Jaya</item>
+        <item>A.J. Sequis Life</item>
+        <item>AXA Financial</item>
+    </string-array>
+
+</resources>

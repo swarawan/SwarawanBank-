@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="prompt_valas_mandiri">Pilih Kode</string>
+
+    <string-array name="array_valas_mandiri">
+        <item>United States Dollar (USD)</item>
+        <item>Australian Dollar (UAD)</item>
+        <item>Canadian Dollar (CAD)</item>
+        <item>Swiss Franc (CHF)</item>
+        <item>New Zealand Dollar (NZD)</item>
+        <item>Danish Krone (DKK)</item>
+        <item>British Poundsterling (GBP)</item>
+        <item>Hongkong Dollar (HKD)</item>
+        <item>Japanese Yen (JPY)</item>
+        <item>Singapore Dollar (SGD)</item>
+        <item>EURO Spot Rate (EUR)</item>
+        <item>Swedish Krona (SEK)</item>
+        <item>Norwegian Krone (NOK)</item>
+    </string-array>
+
+</resources>

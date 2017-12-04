@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="prompt_info_bni">Pilih Jenis Tagihan</string>
+
+    <string-array name="array_info_bni">
+        <item>Kartu Kredit BNI</item>
+        <item>Telkom</item>
+        <item>Kartu Halo</item>
+        <item>Matrix</item>
+        <item>Star One</item>
+        <item>Xplor</item>
+        <item>Flexi Classy</item>
+        <item>Speedy</item>
+    </string-array>
+    <string-array name="array_tagihan_bni">
+        <item>Telkom</item>
+        <item>Speedy</item>
+        <item>PLN</item>
+        <item>Kartu Halo</item>
+        <item>Matrix</item>
+        <item>StarOne</item>
+        <item>Xplor</item>
+        <item>Flexi Classy</item>
+        <item>PDAM Bandung</item>
+    </string-array>
+
+</resources>

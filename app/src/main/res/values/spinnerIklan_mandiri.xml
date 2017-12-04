@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="prompt_iklan_mandiri">Pilih Agen</string>
+
+    <string-array name="array_iklan_mandiri">
+        <item>Kompas</item>
+        <item>XL Kita</item>
+    </string-array>
+
+</resources>

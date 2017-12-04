@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">SwarawanBank</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_banker">SwarawanBank!</string>
+    <string name="tombol_ke_menu_mandiri">Tombol ke menu Mandiri</string>
+    <string name="norek">Kode Rekening</string>
+    <string name="nokontrak">Nomor Kontrak</string>
+    <string name="jumlah">Jumlah</string>
+    <string name="kreditor">Kreditor</string>
+    <string name="kirim">Kirim SMS</string>
+    <!-- <string name="hint_rekening">ex : 1</string>
+    <string name="hint_rekening2">ex : 12300054321</string>
+    <string name="hint_jumlah">ex : 50000</string>
+    <string name="hint_berita">Berita Max 20 Karakter</string>
+    <string name="hint_password">ex : ****</string>
+     -->
+
+</resources>
